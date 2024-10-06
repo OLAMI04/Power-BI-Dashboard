@@ -35,7 +35,7 @@ Lease Renewal Optimization: Streamline lease renewal processes to increase tenan
 
 ## Data Description
 
-### This case study contains 4 datasets and  they are as follows;
+This case study contains 4 datasets and  they are as follows;
 
 ### Tenant Information Dataset:
 
