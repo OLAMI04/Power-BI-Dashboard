@@ -1,4 +1,4 @@
-# Power-BI-Dashboard
+# Power-BI-Dashboard Tenant Retention Optimization
 ## Business Overview/Problem
 HomeVibe Properties has identified several pressing challenges related to tenant retention, presented in bullet points for clarity:
 
