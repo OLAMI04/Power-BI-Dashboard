@@ -117,3 +117,6 @@ This case study contains 4 datasets and  they are as follows;
  Data Visualization: Create visual representations to communicate insights effectively. 
  
  Interpretation and Insight Generation: Extract meaningful insights and interpret the results. 
+
+### Dashboard Summary
+![Dashboard](https://github.com/OLAMI04/Power-BI-Dashboard/blob/main/Estate%20Rtn.PNG)
