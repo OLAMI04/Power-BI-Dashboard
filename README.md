@@ -123,3 +123,5 @@ This case study contains 4 datasets and  they are as follows;
 
 ### Dataset
 [lease Details Data](https://github.com/OLAMI04/Power-BI-Dashboard/blob/main/Dataset/lease_details.csv)
+
+[Property Information](https://github.com/OLAMI04/Power-BI-Dashboard/blob/main/Dataset/property_information.csv)
