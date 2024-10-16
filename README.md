@@ -90,7 +90,7 @@ This case study contains 4 datasets and  they are as follows;
 ### Tech Stack
 #### Tool - Power BI
 
-#### It will be used for ;
+#### It was used for ;
 
  Data Integration 
  
